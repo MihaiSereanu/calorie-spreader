@@ -1,2 +1,2 @@
-# calorie-spreader
-calorie-spreader
+# Calorie Spreader - Spread 'em 
+Work in progress
